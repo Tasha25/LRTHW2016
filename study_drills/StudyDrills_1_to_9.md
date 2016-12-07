@@ -1,5 +1,5 @@
 ## Chapter 1
-![Alt text] (./images/ex1_study_questions.png)
+![Alt text] (/images/ex1_study_questions.png)
 
 
 ANSWER 1 ~> puts "Go Home"
@@ -9,7 +9,7 @@ ANSWER 2 ~> WE will comment out all the code to print one of the lines.
 ANSWER 3 ~> it comments out the code
 
 ## Chapter 2
-![Alt text] (../images/ex2_study_questions.png)
+![Alt text] (/images/ex2_study_questions.png)
 
 ANSWER 1 ~> Yes, I was right.
 
