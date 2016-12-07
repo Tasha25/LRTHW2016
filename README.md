@@ -1,29 +1,60 @@
 # LRTHW2016
 
-## Timeline to get work done by December 15, 2016
-### 4 chapters a day
+## Timeline to get work done by December 15, 2016 is 4 chapters a day
 
-7th - Chapter 1 - 4
+12/7/16  - Chapter 1 - 4
 
+-> ## Chapter 1 <-
 ![Alt text] (/images/ex1_study_questions.png)
 
-#For this exercise, try these things:
-# Make your script print another line.
-ANSWER~> puts "Go Home"
 
-# Make your script print only one of the lines.
-ANSWER~> WE will comment out all the code to print one of the lines.
+ANSWER 1 ~> puts "Go Home"
 
-#Put a "#" (octothorpe) character at the beginning of a line. What did it do? Try to find out what this character does.
-ANSWER~> it comments out the code
+ANSWER 2 ~> WE will comment out all the code to print one of the lines.
 
+ANSWER 3 ~> it comments out the code
 
+-> ## Chapter 2 <-
 ![Alt text] (/images/ex2_study_questions.png)
 
-8th - Chapter 5 - 9
-9th - Chapter 10 - 14
-10th - Chapter 14 - 19
-11th - Chapter 20 - 24
-12th - Chapter 25 - 29
-13th - Chapter 30 - 34
-14th - Chapter 35
+ANSWER 1 ~> Yes, I was right.
+
+ANSWER 2 ~> Done
+
+ANSWER 3 ~> Yes, done.
+
+ANSWER 4 ~> No.
+
+-> ## Chapter 3 <-
+![Alt text] (/images/ex3_study_questions.png)
+
+ANSWER 1 ~>
+
+ANSWER 2 ~>
+
+ANSWER 3 ~>
+
+ANSWER 4 ~>
+
+ANSWER 5 ~>
+
+-> ## Chapter 4 <-
+![Alt text] (/images/ex4_study_questions.png)
+
+ANSWER 1 ~>
+
+ANSWER 2 ~>
+
+ANSWER 3 ~>
+
+ANSWER 4 ~>
+
+ANSWER 5 ~>
+
+12/8/16 - Chapter 5 - 9
+12/9/16 - Chapter 10 - 14
+12/10/16 - Chapter 14 - 19
+12/11/16 - Chapter 20 - 24
+12/12/16 - Chapter 25 - 29
+12/13/16 - Chapter 30 - 34
+12/14/16 - Chapter 35
