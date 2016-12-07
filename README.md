@@ -5,7 +5,7 @@
 
 7th - Chapter 1 - 4
 
-![Alt text] ("./images/ex1_study_questions.png")
+![Alt text] (/images/ex1_study_questions.png)
 
 #For this exercise, try these things:
 # Make your script print another line.
@@ -18,7 +18,7 @@ ANSWER~> WE will comment out all the code to print one of the lines.
 ANSWER~> it comments out the code
 
 
-![Alt text] ("./images/ex2_study_questions.png")
+![Alt text] (/images/ex2_study_questions.png)
 
 8th - Chapter 5 - 9
 9th - Chapter 10 - 14
