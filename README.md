@@ -21,7 +21,7 @@ Problem, there is no gets.chomp in the code.
 4. Now that you are using $stdin.gets.chomp (see #3) you can add ARGV to your script to get something from the user. Don't over think this. Just use ARGV to get one thing, then $stdin.gets.chomp to get something else.
 
 ## Study Drills Exercise 14
-Problem, need to come back to this.
+Problem, need to come back to this. <br/>
 3. There's too much repetition in this file. Use strings, formats, and escapes to print out line1, line2, and line3 with just one target.write() command instead of six.
 
 ## Study Drills Exercise 17
