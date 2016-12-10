@@ -15,7 +15,7 @@ Answer:  your script gives me back 10.34 in change
 My answer: 10.340000000000002
 
 ## Study Drills Exercise 13
-Problem, there is no gets.chomp in the code.
+Problem, there is no gets.chomp in the code. <br/>
 3. Change your script to use $stdin.gets.chomp everywhere that you have gets.chomp. You should use $stdin.gets.chomp from now on since the action gets.chomp has problems with ARGV.
 
 4. Now that you are using $stdin.gets.chomp (see #3) you can add ARGV to your script to get something from the user. Don't over think this. Just use ARGV to get one thing, then $stdin.gets.chomp to get something else.
@@ -25,7 +25,7 @@ Problem, need to come back to this. <br/>
 3. There's too much repetition in this file. Use strings, formats, and escapes to print out line1, line2, and line3 with just one target.write() command instead of six.
 
 ## Study Drills Exercise 17
-Problem, don't know how to do these drills.
+Problem, don't know how to do these drills. <br/>
 1. This script is really annoying. There's no need to ask you before doing the copy, and it prints too much out to the screen. Try to make the script more friendly to use by removing features.
 
 2. See how short you can make the script. I could make this one line long.
