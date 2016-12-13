@@ -35,8 +35,9 @@ Problem, don't know how to do these drills. <br/>
 4. Find out why you had to write out_file.close in the code.
 
 
-ex24.rb
-Q, multiple variables se
+## Question on ex24.rb
+multiple variables secret_formula is not working in the code.
+
 beans, jars, crates = secret_formula(start_point)
 def secret_formula(started)
   jelly_beans = started * 500
