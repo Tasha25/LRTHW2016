@@ -20,7 +20,7 @@ initialize the first value to i
 create an empty array called numbers
 
   WHILE i is less than 6
-    display the number and the position the number is in the array
+    display the number and display the position the number is in the array
     add the ith number to the array
 
     increment the number by 1
@@ -31,6 +31,6 @@ create an empty array called numbers
 display a list of numbers in the array
 
 
-
+Year Up empowers low-income young adults to go from poverty to professional careers in a single year.
 
 =end
