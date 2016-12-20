@@ -4,8 +4,7 @@ def gold_room
   print "> "
   choice = $stdin.gets.chomp
 
-  #this line has a bug, so fix it
-  if choice.include("0") || choice.include?("1")
+  if choice =~ /\d+/
     how_much = choice.to_i
   else
     dead("Man, learn to type a number.")
@@ -17,6 +16,7 @@ def gold_room
   else
     dead("You greedy bastard!")
   end
+
 end
 
 def bear_room
@@ -32,16 +32,17 @@ def bear_room
 
     if choice == "take honey"
       dead("The bear looks at you then slaps your face off.")
-    elsif choice == "taunt beer" && !bear_moved
+    elsif choice == "taunt bear" && !bear_moved
       puts "The bear has moved from the door. You can go through it now."
       bear_moved = true
     elsif choice == "taunt bear" && bear_moved
-      dead("The bear pissed off and ches your leg off.")
+      dead("The bear pissed off and chews your leg off.")
     elsif choice == "open door" && bear_moved
       gold_room
     else
       puts "I got no idea what that means."
     end
+
   end
 end
 
@@ -60,6 +61,7 @@ def cthulhu_room
   else
     cthulhu_room
   end
+
 end
 
 def dead(why)
@@ -80,8 +82,9 @@ def start
   elsif choice == "right"
     cthulhu_room
   else
-    dead("You stuble around the room until you starve.")
+    dead("You stumble around the room until you starve.")
   end
+
 end
 
 start
