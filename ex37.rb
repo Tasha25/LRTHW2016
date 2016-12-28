@@ -192,7 +192,7 @@ puts "*** self	The current object, class, or module.	defined?  ***"
    attr_accessor :title
 
    def replace_title(new_title)
-     title = new_title #by not have self.title = new_title you will not have the new_title persists to the next method.
+     title = new_title #by not having self.title = new_title you will not have the new_title persists to the next method.
    end
 
    def print_title
